@@ -20,15 +20,15 @@ FEATURES ENGINEERING<br>
 Budget dan revenue saya rubah kedalam nilai jutaan. Agar dapat lebih mudah dipahami. Saya juga membuat kolom profit, dan kolom success. Untuk melihat keuntungan dan kesuksesan sebuah film.<br><br>
 
 ## EXPLORATORY DATA ANALYSIS
-![image](https://github.com/ahfifahrul/analisis_terhadap_film_IMDB/assets/153416228/b68310ca-3bb6-4c61-aff0-9d0ca8d0dad8)
+![image](https://github.com/ahfifahrul/analisis_terhadap_film_IMDB/assets/153416228/b68310ca-3bb6-4c61-aff0-9d0ca8d0dad8)<br>
 Ada hubungan yang cukup kuat antara budget dengan revenue
-![image](https://github.com/ahfifahrul/analisis_terhadap_film_IMDB/assets/153416228/ea4e506c-a6d9-4c9e-a55a-cf461e8bc80b)
+![image](https://github.com/ahfifahrul/analisis_terhadap_film_IMDB/assets/153416228/ea4e506c-a6d9-4c9e-a55a-cf461e8bc80b)<br>
 Amerika Serikat, Britania Raya, Korea Selatan adalah negara-negara dengan revenue tertinggi
-![image](https://github.com/ahfifahrul/analisis_terhadap_film_IMDB/assets/153416228/151e8fe7-352a-48ee-bc34-23ec9689f782)
+![image](https://github.com/ahfifahrul/analisis_terhadap_film_IMDB/assets/153416228/151e8fe7-352a-48ee-bc34-23ec9689f782)<br>
 Documentary, TV Movies, Animasi adalah genre dengan rata-rata revenue tertinggi
-![image](https://github.com/ahfifahrul/analisis_terhadap_film_IMDB/assets/153416228/656ae081-33b7-47d4-8266-45cc9333f105)
+![image](https://github.com/ahfifahrul/analisis_terhadap_film_IMDB/assets/153416228/656ae081-33b7-47d4-8266-45cc9333f105)<br>
 Documentary, TV Movies, Animasi adalah genre dengan rata-rata profit tertinggi
-![image](https://github.com/ahfifahrul/analisis_terhadap_film_IMDB/assets/153416228/2bb9c512-1b25-434c-bfe5-3fb3c311a005)
+![image](https://github.com/ahfifahrul/analisis_terhadap_film_IMDB/assets/153416228/2bb9c512-1b25-434c-bfe5-3fb3c311a005)<br>
 Bulan Mei, bulan Maret, bulan Juli, bulan November adalah bulan dengan rata-rata revenue tertinggi
 
 ## MECHINE LEARNING MODEL
