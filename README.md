@@ -21,15 +21,15 @@ Budget dan revenue saya rubah kedalam nilai jutaan. Agar dapat lebih mudah dipah
 
 ## EXPLORATORY DATA ANALYSIS
 ![image](https://github.com/ahfifahrul/analisis_terhadap_film_IMDB/assets/153416228/b68310ca-3bb6-4c61-aff0-9d0ca8d0dad8)<br>
-Ada hubungan yang cukup kuat antara budget dengan revenue
+Ada hubungan yang cukup kuat antara budget dengan revenue<br><br>
 ![image](https://github.com/ahfifahrul/analisis_terhadap_film_IMDB/assets/153416228/ea4e506c-a6d9-4c9e-a55a-cf461e8bc80b)<br>
-Amerika Serikat, Britania Raya, Korea Selatan adalah negara-negara dengan revenue tertinggi
+Amerika Serikat, Britania Raya, Korea Selatan adalah negara-negara dengan revenue tertinggi<br><br>
 ![image](https://github.com/ahfifahrul/analisis_terhadap_film_IMDB/assets/153416228/151e8fe7-352a-48ee-bc34-23ec9689f782)<br>
-Documentary, TV Movies, Animasi adalah genre dengan rata-rata revenue tertinggi
+Documentary, TV Movies, Animasi adalah genre dengan rata-rata revenue tertinggi<br><br>
 ![image](https://github.com/ahfifahrul/analisis_terhadap_film_IMDB/assets/153416228/656ae081-33b7-47d4-8266-45cc9333f105)<br>
-Documentary, TV Movies, Animasi adalah genre dengan rata-rata profit tertinggi
+Documentary, TV Movies, Animasi adalah genre dengan rata-rata profit tertinggi<br><br>
 ![image](https://github.com/ahfifahrul/analisis_terhadap_film_IMDB/assets/153416228/2bb9c512-1b25-434c-bfe5-3fb3c311a005)<br>
-Bulan Mei, bulan Maret, bulan Juli, bulan November adalah bulan dengan rata-rata revenue tertinggi
+Bulan Mei, bulan Maret, bulan Juli, bulan November adalah bulan dengan rata-rata revenue tertinggi<br><br>
 
 ## MECHINE LEARNING MODEL
 PREDICTOR VARIABLE :<br>
@@ -43,7 +43,7 @@ country<br><br>
 TARGET VARIABLE :<br>
 success<br><br>
 ### MODEL EVALUATION
-![image](https://github.com/ahfifahrul/analisis_terhadap_film_IMDB/assets/153416228/7f0a5ac5-c9bb-42b0-a59d-b1a3d90dc88a)
+![image](https://github.com/ahfifahrul/analisis_terhadap_film_IMDB/assets/153416228/7f0a5ac5-c9bb-42b0-a59d-b1a3d90dc88a)<br>
 Precision: Rasio prediksi positif yang benar terhadap total prediksi positif.<br>
 
 Recall: Rasio prediksi positif yang benar terhadap total positif sebenarnya.<br>
@@ -52,8 +52,8 @@ F1-Score: Rata-rata dari precision dan recall. Model ini memiliki F1-score 0.84 
 
 Accuracy: Persentase prediksi yang benar dari semua prediksi. Model ini memiliki akurasi 0.84, menunjukkan bahwa sekitar 84% dari prediksi yang dibuat oleh model adalah benar.<br>
 
-AUC-ROC score: score sebesar 0.8881 (88,81%), ini menunjukkan bahwa model cukup efektif dalam membedakan antara kedua kelas dan memiliki tingkat keakuratan yang tinggi dalam prediksi.<br>
-![image](https://github.com/ahfifahrul/analisis_terhadap_film_IMDB/assets/153416228/0d8ad846-75ae-4757-9615-f204b1593732)
+AUC-ROC score: score sebesar 0.8881 (88,81%), ini menunjukkan bahwa model cukup efektif dalam membedakan antara kedua kelas dan memiliki tingkat keakuratan yang tinggi dalam prediksi.<br><br>
+![image](https://github.com/ahfifahrul/analisis_terhadap_film_IMDB/assets/153416228/0d8ad846-75ae-4757-9615-f204b1593732)<br>
 True Negatives (TN): 842 jumlah kasus yang model prediksi sebagai negatif dan memang benar negatif.<br>
 
 False Positives (FP): 127 jumlah kasus yang model prediksi sebagai positif tapi sebenarnya negatif.<br>
