@@ -1,4 +1,4 @@
-# analisis_terhadap_film_IMDB
+# 🎬 analisis_terhadap_film_IMDB 🎬
 ## OVERVIEW
 Dataset IMDB Movies merupakan kumpulan data terkait film-film yang tercatat dalam website IMDB, yang dikenal luas sebagai sumber referensi utama dalam industri film. Dataset ini mencakup informasi seperti judul film, tahun release, genre, skor, artist, serta berbagai metadata lainnya. Melalui analisis terhadap dataset ini, diharapkan dapat diperoleh pemahaman yang lebih mendalam mengenai karakteristik dari film-film yang mendapat apresiasi tinggi dari audiens. Ini memberikan kesempatan bagi peneliti untuk menggali tren serta pola yang berlaku di dalam industri film secara lebih ekstensif.
 ## OBJECTIVE
@@ -18,12 +18,5 @@ Dalam dataset, terdapat kesalahan penulisan dimana film-film yang seharusnya buk
 
 FEATURES ENGINEERING<br>
 Budget dan revenue saya rubah kedalam nilai jutaan. Agar dapat lebih mudah dipahami. Saya juga membuat kolom profit, dan kolom success. Untuk melihat keuntungan dan kesuksesan sebuah film.<br><br>
-
-
-
-
-
-
-
 
 
