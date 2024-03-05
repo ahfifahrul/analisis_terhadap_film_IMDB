@@ -72,5 +72,5 @@ Berdasarkan hasil penelitian, kami merekomendasikan beberapa strategi untuk prod
 2. Pemilihan Genre yang Tepat: Fokus pada genre film seperti dokumenter, Movie TV, dan animasi yang terbukti memiliki potensi pendapatan yang lebih tinggi. Penelitian menunjukkan bahwa genre-genre tersebut menarik minat penonton secara signifikan, yang berpotensi meningkatkan pendapatan.<br>
 3. Penargetan Pasar yang Efektif: Penting bagi produser untuk menargetkan pasar yang tepat. Negara-negara seperti Amerika Serikat, Britania Raya, dan Korea Selatan teridentifikasi memiliki potensi pendapatan yang signifikan. Membuat film yang bertemakan negara-negara tersebut dapat secara substansial meningkatkan pendapatan.<br>
 4. Penjadwalan Rilis yang Optimal: Memilih waktu rilis yang tepat juga dapat mempengaruhi pendapatan. Bulan Mei, Maret, dan November tercatat memiliki rata-rata pendapatan tertinggi. Menjadwalkan rilis film pada bulan-bulan tersebut dapat memberikan keuntungan tambahan.<br>
-Rekomendasi ini diharapkan dapat membantu produser dalam merencanakan dan mengimplementasikan strategi produksi yang lebih efektif untuk meningkatkan pendapatan film.
+Rekomendasi ini diharapkan dapat membantu produser dalam merencanakan dan mengimplementasikan strategi produksi yang lebih efektif untuk meningkatkan pendapatan film.<br>
 🎬🎬🎬🎬🎬🎬🎬🎬🎬🎬🎬🎬🎬
