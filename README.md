@@ -6,6 +6,23 @@ Dataset IMDB Movies merupakan kumpulan data terkait film-film yang tercatat dala
 2. Menganalisis genre film untuk meningkatkan pendapatan
 3. Pengaruh anggaran terhadap pendapatan dan kesuksesan sebuah film
 4. Memprediksi kesuksesan sebuah film
+## DATA PREPROCESSING
+MISSING VALUE
+Terdapat 1,24% nilai NaN dan saya memilih untuk drop data tersebut untuk menjaga kualitas analisis
+
+DUPLICATES
+Tidak ada duplicate dalam dataset ini
+
+INACCURACIES
+Dalam dataset, terdapat kesalahan penulisan dimana film-film yang seharusnya bukan berasal dari Australia, tetapi tercatat sebagai produksi Australia. Untuk ini saya lakukan penyesuaian nilai berdasarkan riset dan Bahasa yang digunakan.
+
+FEATURES ENGINEERING
+Budget dan revenue saya rubah kedalam nilai jutaan. Agar dapat lebih mudah dipahami. Saya juga membuat kolom profit, dan kolom success. Untuk melihat keuntungan dan kesuksesan sebuah film.
+
+
+
+
+
 
 
 
